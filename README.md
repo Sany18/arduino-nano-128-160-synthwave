@@ -4,3 +4,15 @@
 Arduino Nano v3
 
 ![How it looks like](./video_2023-11-23_19-12-41.gif?raw=true)
+
+### Pins:
+| Arduino | TFT Display |
+|---------|-------------|
+| 3v3     | LED         |
+| 13      | SCK         |
+| 11      | SDA         |
+| 3       | AO          |
+| 2       | RESET       |
+| 4       | CS          |
+| GND     | GND         |
+| 5v      | VCC         |
